@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UnityBaseCamp.sln"
+    "dotnet.defaultSolution": "UnityBaseCamp.sln",
+    "git.ignoreLimitWarning": true
 }
